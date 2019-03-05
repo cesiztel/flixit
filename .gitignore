@@ -1,3 +1,8 @@
+.DS_Store
+
+# Android studio
+.idea/*
+
 # Built application files
 *.apk
 *.ap_
